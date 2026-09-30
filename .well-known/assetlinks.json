@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.v1byte.cziperr",
+      "sha256_cert_fingerprints": [
+        "51:A6:D6:ED:4F:84:58:08:77:B9:93:FC:1D:7C:AC:0E:7C:04:CF:AE"
+      ]
+    }
+  }
+]
